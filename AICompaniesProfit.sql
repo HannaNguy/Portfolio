@@ -16,7 +16,7 @@ WHERE Sector IN ('Retail', 'Technology')
 GROUP BY Sector, AI_Benefits
 ORDER BY Sector, CompanyCount DESC
 --Outliers in profits--
-SELECT Company_Name, Profits_in_USD
+SELECT Company_Name, Profits_in_USD, AI_Benefits
 FROM AICompaniesProfit
 WHERE Sector = 'Retail' AND Profits_in_USD > (SELECT 1.5 * AVG(Profits_in_USD) FROM AICompaniesProfit WHERE Sector = 'Retail')
 ORDER BY Profits_in_USD DESC

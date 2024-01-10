@@ -9,7 +9,6 @@
 ### Company Profits and Benefits from AI
 [Link](https://prod-useast-b.online.tableau.com/t/nguyenh/views/RetailCompaniesProject/Dashboard1).
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
+I analyzed the advantages brought about by AI in both the retail and technology sectors, with a specific emphasis on examining the average profits and how they are distributed among various AI benefits.
 
 

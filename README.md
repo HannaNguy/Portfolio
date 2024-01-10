@@ -1,2 +1,2 @@
-# Hanna_Portfolio
-Data Portfolio
+# Education
+Computing & Data Analytics, BA

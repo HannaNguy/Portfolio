@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Python, R, Tableau
 
 ## Education
-BA, Computing & Data Analytics; concentration in business | Queens University of Charlotte (_May 2026_)
+B.A., Computing & Data Analytics; Concentration in business | Queens University of Charlotte (_May 2026_)
 
 ## Projects
 ### Company Profits and Benefits from AI 

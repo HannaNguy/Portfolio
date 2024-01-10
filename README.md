@@ -1,4 +1,4 @@
-# Hanna Nguyen
+
 #### Technical Skills: SQL, Python, R, Tableau, MS Excel, Computer Hardware Assembly
 
 ## Education

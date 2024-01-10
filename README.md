@@ -1,6 +1,6 @@
 # Hanna Nguyen
 
-#### Technical Skills: SQL, Python, R, Tableau
+#### Technical Skills: SQL, Python, R, Tableau, MS Excel, Computer Hardware Assembly
 
 ## Education
 B.A., Computing & Data Analytics; Concentration in business | Queens University of Charlotte (_May 2026_)

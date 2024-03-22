@@ -16,6 +16,6 @@ Utilized MS SQL and Tableau to analyze the advantages brought by AI in both the 
 Analyzed lottery winners in North Carolina, uncovering patterns between store owners and winners. This analysis was carried out using Datawrapper and SQLite. The data and research were from my previous professor Gavin Off, who is Charlotte Observer's data reporter.
 
 ### Two Way ANOVA 
-[Link]([https://7b3876dbb20c4e4e9d55c55ca8a52173.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2Fpractice-two-way-ANOVA.html](https://github.com/HannaNguy/Portfolio/blob/main/practice-two-way-ANOVA%20(1).html))
+[download]({{ site.baseurl }}{% link file.txt %})
 
 I conducted a two-way ANOVA analysis to examine the potential influence of a faculty member's gender and ethnicity on their mean score in course evaluations. This dataset was obtained during my Statistical Modeling course.

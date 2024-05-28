@@ -18,6 +18,6 @@ I conducted a two-way ANOVA analysis to examine the potential influence of a fac
 
 ## Data Engineering Project
 
-### Gaming Laptop Specs and price Dataset
+### Gaming Laptop Specs and price ETL Pipeline
 
 Analyzed gaming laptop specs and prices dataset from Kaggle made by Dhanraj Verma. First, I utilized the Azure data factory to extract the data from the API. I then loaded the raw data using Data Lake Gen 2 and transformed the data in Azure Databricks. Finally, I loaded the transformed data into the Azure Data Lake Storage.

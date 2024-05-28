@@ -4,7 +4,7 @@
 ## Education
 B.A., Computing & Data Analytics; Concentration in business | Queens University of Charlotte (_May 2026_)
 
-## Projects
+## Data Analytics Projects
 
 ### Lottery Winners in NC
 [Link](https://www.datawrapper.de/_/uU3Fh/)
@@ -15,3 +15,8 @@ Analyzed lottery winners in North Carolina, uncovering patterns between store ow
 [Link](https://rawcdn.githack.com/HannaNguy/Portfolio/ab2cc92f367301530c18df0b94e56a0de33000c5/practice-two-way-ANOVA.html)
 
 I conducted a two-way ANOVA analysis to examine the potential influence of a faculty member's gender and ethnicity on their mean score in course evaluations. This dataset was obtained during my Statistical Modeling course.
+
+## Data Engineering Project
+
+### Gaming Laptop Specs and price Dataset
+

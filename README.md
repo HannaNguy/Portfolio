@@ -16,6 +16,9 @@ Analyzed lottery winners in North Carolina, uncovering patterns between store ow
 
 I conducted a two-way ANOVA analysis to examine the potential influence of a faculty member's gender and ethnicity on their mean score in course evaluations. This dataset was obtained during my Statistical Modeling course.
 
+### MAT340 Final Project
+[Link](MAT_340_Final_Project.ipynb)
+
 ## Data Engineering Project
 
 ### Gaming Laptop Specs and price ETL Pipeline
